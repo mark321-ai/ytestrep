@@ -1,7 +1,4 @@
 google.com, pub-3043035391943635, DIRECT, f08c47fec0942fa0
-google.com, pub-7846596673689353, DIRECT, f08c47fec0942fa0
-google.com, pub-4389103013945634, DIRECT, f08c47fec0942fa0
-google.com, pub-1724230173714267, RESELLER, f08c47fec0942fa0
 improvedigital.com, 2426, RESELLER
 rubiconproject.com, 22884, RESELLER, 0bfd66d529a55807
 adingo.jp, 31077, RESELLER
