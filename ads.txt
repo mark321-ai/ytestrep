@@ -24,8 +24,8 @@ pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 freewheel.tv, 20393, RESELLER
 freewheel.tv, 24377, RESELLER
-d-sail.com, ds0691, DIRECT				
-google.com, pub-2205121062140812, RESELLER, f08c47fec0942fa0				
+d-sail.com, ds0691, DIRECT
+google.com, pub-2205121062140812, RESELLER, f08c47fec0942fa0
 visualads.com, 22695661998, Direct
 visualads.com, 22912234138, Direct
 visualads.com, 23212977596, Direct
